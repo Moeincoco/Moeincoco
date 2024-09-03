@@ -11,11 +11,11 @@
             <key>PayloadIdentifier</key>
             <string>com.apple.cellular</string>
             <key>PayloadType</key>
-            <string>com.apple.cellular</string>
-            <key>PayloadUUID</key>
-            <string>daf0e16b-4b03-4c08-9d81-18fee8900bcd</string>
-            <key>PayloadVersion</key>
-            <integer>1</integer>
+		<string>com.apple.cellular</string>
+		<key>PayloadUUID</key>
+		<string>31f0439a-69dc-11ef-b864-0242ac120002</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
             <key>APNs</key>
             <array>
                 <!-- First APN -->
